@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "./"
+		}
+	],
+	"settings": {
+		"files.associations": {
+            "cstdio": "cpp",
+            "cstdarg": "cpp",
+            "lv_demo_stress.h": "c",
+            "lv_demo_test.h": "c",
+            "mousewheel.h": "c"
+        },
+		"search.exclude": {
+			"**/.*": true,
+			"build": true
+		},
+		"search.useIgnoreFiles": false
+	}
+}
